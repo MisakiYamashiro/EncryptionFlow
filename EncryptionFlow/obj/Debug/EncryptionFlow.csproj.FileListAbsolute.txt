@@ -1,0 +1,12 @@
+C:\Users\efepa\source\repos\EncryptionFlow\EncryptionFlow\bin\Debug\EncryptionFlow.exe.config
+C:\Users\efepa\source\repos\EncryptionFlow\EncryptionFlow\bin\Debug\EncryptionFlow.exe
+C:\Users\efepa\source\repos\EncryptionFlow\EncryptionFlow\bin\Debug\EncryptionFlow.pdb
+C:\Users\efepa\source\repos\EncryptionFlow\EncryptionFlow\obj\Debug\EncryptionFlow.csproj.AssemblyReference.cache
+C:\Users\efepa\source\repos\EncryptionFlow\EncryptionFlow\obj\Debug\EncryptionFlow.Form1.resources
+C:\Users\efepa\source\repos\EncryptionFlow\EncryptionFlow\obj\Debug\EncryptionFlow.Properties.Resources.resources
+C:\Users\efepa\source\repos\EncryptionFlow\EncryptionFlow\obj\Debug\EncryptionFlow.csproj.GenerateResource.cache
+C:\Users\efepa\source\repos\EncryptionFlow\EncryptionFlow\obj\Debug\EncryptionFlow.csproj.CoreCompileInputs.cache
+C:\Users\efepa\source\repos\EncryptionFlow\EncryptionFlow\obj\Debug\EncryptionFlow.exe
+C:\Users\efepa\source\repos\EncryptionFlow\EncryptionFlow\obj\Debug\EncryptionFlow.pdb
+C:\Users\efepa\source\repos\EncryptionFlow\EncryptionFlow\obj\Debug\EncryptionFlow.DecryptionForm.resources
+C:\Users\efepa\source\repos\EncryptionFlow\EncryptionFlow\obj\Debug\EncryptionFlow.EncryptForm.resources
