@@ -3,36 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\efepa\\source\\repos\\EncryptionFlow\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{096DFD67-33D5-4EAD-9AF3-A4F4F366EB3D}|EncryptionFlow\\EncryptionFlow.csproj|c:\\users\\efepa\\source\\repos\\encryptionflow\\encryptionflow\\decryptionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{096DFD67-33D5-4EAD-9AF3-A4F4F366EB3D}|EncryptionFlow\\EncryptionFlow.csproj|solutionrelative:encryptionflow\\decryptionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{096DFD67-33D5-4EAD-9AF3-A4F4F366EB3D}|EncryptionFlow\\EncryptionFlow.csproj|c:\\users\\efepa\\source\\repos\\encryptionflow\\encryptionflow\\decryptionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{096DFD67-33D5-4EAD-9AF3-A4F4F366EB3D}|EncryptionFlow\\EncryptionFlow.csproj|solutionrelative:encryptionflow\\decryptionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{096DFD67-33D5-4EAD-9AF3-A4F4F366EB3D}|EncryptionFlow\\EncryptionFlow.csproj|c:\\users\\efepa\\source\\repos\\encryptionflow\\encryptionflow\\encryptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{096DFD67-33D5-4EAD-9AF3-A4F4F366EB3D}|EncryptionFlow\\EncryptionFlow.csproj|solutionrelative:encryptionflow\\encryptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{096DFD67-33D5-4EAD-9AF3-A4F4F366EB3D}|EncryptionFlow\\EncryptionFlow.csproj|c:\\users\\efepa\\source\\repos\\encryptionflow\\encryptionflow\\encryptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{096DFD67-33D5-4EAD-9AF3-A4F4F366EB3D}|EncryptionFlow\\EncryptionFlow.csproj|solutionrelative:encryptionflow\\encryptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{096DFD67-33D5-4EAD-9AF3-A4F4F366EB3D}|EncryptionFlow\\EncryptionFlow.csproj|c:\\users\\efepa\\source\\repos\\encryptionflow\\encryptionflow\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{096DFD67-33D5-4EAD-9AF3-A4F4F366EB3D}|EncryptionFlow\\EncryptionFlow.csproj|solutionrelative:encryptionflow\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{096DFD67-33D5-4EAD-9AF3-A4F4F366EB3D}|EncryptionFlow\\EncryptionFlow.csproj|c:\\users\\efepa\\source\\repos\\encryptionflow\\encryptionflow\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{096DFD67-33D5-4EAD-9AF3-A4F4F366EB3D}|EncryptionFlow\\EncryptionFlow.csproj|solutionrelative:encryptionflow\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{096DFD67-33D5-4EAD-9AF3-A4F4F366EB3D}|EncryptionFlow\\EncryptionFlow.csproj|c:\\users\\efepa\\source\\repos\\encryptionflow\\encryptionflow\\cryptoengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{096DFD67-33D5-4EAD-9AF3-A4F4F366EB3D}|EncryptionFlow\\EncryptionFlow.csproj|solutionrelative:encryptionflow\\cryptoengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{096DFD67-33D5-4EAD-9AF3-A4F4F366EB3D}|EncryptionFlow\\EncryptionFlow.csproj|c:\\users\\efepa\\source\\repos\\encryptionflow\\encryptionflow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{096DFD67-33D5-4EAD-9AF3-A4F4F366EB3D}|EncryptionFlow\\EncryptionFlow.csproj|solutionrelative:encryptionflow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,103 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DecryptionForm.cs",
-              "DocumentMoniker": "C:\\Users\\efepa\\source\\repos\\EncryptionFlow\\EncryptionFlow\\DecryptionForm.cs",
-              "RelativeDocumentMoniker": "EncryptionFlow\\DecryptionForm.cs",
-              "ToolTip": "C:\\Users\\efepa\\source\\repos\\EncryptionFlow\\EncryptionFlow\\DecryptionForm.cs",
-              "RelativeToolTip": "EncryptionFlow\\DecryptionForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T14:20:00.169Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DecryptionForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\efepa\\source\\repos\\EncryptionFlow\\EncryptionFlow\\DecryptionForm.cs",
-              "RelativeDocumentMoniker": "EncryptionFlow\\DecryptionForm.cs",
-              "ToolTip": "C:\\Users\\efepa\\source\\repos\\EncryptionFlow\\EncryptionFlow\\DecryptionForm.cs [Design]",
-              "RelativeToolTip": "EncryptionFlow\\DecryptionForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T14:17:33.821Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EncryptForm.cs",
-              "DocumentMoniker": "C:\\Users\\efepa\\source\\repos\\EncryptionFlow\\EncryptionFlow\\EncryptForm.cs",
-              "RelativeDocumentMoniker": "EncryptionFlow\\EncryptForm.cs",
-              "ToolTip": "C:\\Users\\efepa\\source\\repos\\EncryptionFlow\\EncryptionFlow\\EncryptForm.cs",
-              "RelativeToolTip": "EncryptionFlow\\EncryptForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T14:10:33.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EncryptForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\efepa\\source\\repos\\EncryptionFlow\\EncryptionFlow\\EncryptForm.cs",
-              "RelativeDocumentMoniker": "EncryptionFlow\\EncryptForm.cs",
-              "ToolTip": "C:\\Users\\efepa\\source\\repos\\EncryptionFlow\\EncryptionFlow\\EncryptForm.cs [Design]",
-              "RelativeToolTip": "EncryptionFlow\\EncryptForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T14:09:07.984Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\efepa\\source\\repos\\EncryptionFlow\\EncryptionFlow\\Form1.cs",
-              "RelativeDocumentMoniker": "EncryptionFlow\\Form1.cs",
-              "ToolTip": "C:\\Users\\efepa\\source\\repos\\EncryptionFlow\\EncryptionFlow\\Form1.cs",
-              "RelativeToolTip": "EncryptionFlow\\Form1.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAtwA4AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T14:08:04.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CryptoEngine.cs",
-              "DocumentMoniker": "C:\\Users\\efepa\\source\\repos\\EncryptionFlow\\EncryptionFlow\\CryptoEngine.cs",
-              "RelativeDocumentMoniker": "EncryptionFlow\\CryptoEngine.cs",
-              "ToolTip": "C:\\Users\\efepa\\source\\repos\\EncryptionFlow\\EncryptionFlow\\CryptoEngine.cs",
-              "RelativeToolTip": "EncryptionFlow\\CryptoEngine.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T14:05:32.234Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\efepa\\source\\repos\\EncryptionFlow\\EncryptionFlow\\Form1.cs",
               "RelativeDocumentMoniker": "EncryptionFlow\\Form1.cs",
               "ToolTip": "C:\\Users\\efepa\\source\\repos\\EncryptionFlow\\EncryptionFlow\\Form1.cs [Design]",
               "RelativeToolTip": "EncryptionFlow\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T14:01:19.09Z",
+              "WhenOpened": "2025-12-31T14:28:29.845Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\efepa\\source\\repos\\EncryptionFlow\\EncryptionFlow\\Program.cs",
-              "RelativeDocumentMoniker": "EncryptionFlow\\Program.cs",
-              "ToolTip": "C:\\Users\\efepa\\source\\repos\\EncryptionFlow\\EncryptionFlow\\Program.cs",
-              "RelativeToolTip": "EncryptionFlow\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T14:03:19.646Z",
-              "EditorCaption": ""
             }
           ]
         }

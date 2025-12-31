@@ -48,7 +48,6 @@ namespace EncryptionFlow
 
                 foreach (string file in files)
                 {
-                    // Zaten kilitliyse (.locked) atla
                     if (file.EndsWith(".locked")) continue;
 
                     CryptoEngine.FileEncrypt(file, txtPassword.Text);
